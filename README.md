@@ -1,2 +1,5 @@
 # mapsheet-burnsville
-Points of interest in western North Carolina for a family trip.
+Points of interest for a family trip to the North Carolina mountains.
+
+Based on code from:
+https://github.com/jsoma/mapsheet
